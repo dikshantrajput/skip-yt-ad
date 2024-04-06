@@ -8,6 +8,7 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 - Can skip multiple ads.
 - Works seamlessly in the background, providing a smooth viewing experience.
 - Lightweight and easy to use.
+- Skips yt survey.
 
 ## Installation
 1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download it](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
