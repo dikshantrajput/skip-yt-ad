@@ -30,7 +30,10 @@ Follow these steps to run the YouTube Skipper Chrome Extension on your local mac
     npm run dev
 ```
 3. **Make any change and just save. Your extension should refresh**:
-
+4. **Build the project**:
+```sh
+    npm run build
+```
 
 ## Usage
 1. Once installed, the extension will automatically start working whenever you watch a YouTube video with a skippable ad.
