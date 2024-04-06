@@ -1,4 +1,4 @@
-# YouTube Skipper Chrome Extension ([download](https://github.com/dikshantrajput/skip-yt-ad))
+# YouTube Skipper Chrome Extension ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip))
 
 ## Description
 The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly.
@@ -10,7 +10,7 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 - Lightweight and easy to use.
 
 ## Installation
-1. Clone the ([extension repository](https://github.com/dikshantrajput/skip-yt-ad)) or ([download it](https://github.com/dikshantrajput/skip-yt-ad)).
+1. Clone the ([extension repository](https://github.com/dikshantrajput/skip-yt-ad)) or ([download it](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
 4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
