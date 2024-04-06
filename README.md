@@ -8,9 +8,10 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 - Can skip multiple ads.
 - Works seamlessly in the background, providing a smooth viewing experience.
 - Lightweight and easy to use.
+- Skips yt survey.
 
 ## Installation
-1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download it](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
+1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
 4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
@@ -41,9 +42,6 @@ Follow these steps to run the YouTube Skipper Chrome Extension on your local mac
 
 ## Compatibility
 This extension is compatible with Google Chrome and Chromium-based browsers.
-
-## Support
-For any issues, feedback, or feature requests, please contact me at [21526dikshantrajput@gmail.com](mailto:21526dikshantrajput@gmail.com).
 
 ## Contributing
 Contributions from the community are welcomes. If you'd like to contribute to the development of this extension, please fork the repository, make your changes, and submit a pull request.

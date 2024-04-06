@@ -1,6 +1,6 @@
 {
-  "name": "YouTube Ad Skipper for skiable ads",
-  "version": "0.0.0",
+  "name": "YouTube Skipper Chrome Extension",
+  "version": "0.1.0",
   "author": "Dikshant Rajput",
   "description": "Automatically skips YouTube ads.",
   "type": "module",
