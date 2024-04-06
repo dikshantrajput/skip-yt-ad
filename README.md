@@ -43,9 +43,6 @@ Follow these steps to run the YouTube Skipper Chrome Extension on your local mac
 ## Compatibility
 This extension is compatible with Google Chrome and Chromium-based browsers.
 
-## Support
-For any issues, feedback, or feature requests, please contact me at [21526dikshantrajput@gmail.com](mailto:21526dikshantrajput@gmail.com).
-
 ## Contributing
 Contributions from the community are welcomes. If you'd like to contribute to the development of this extension, please fork the repository, make your changes, and submit a pull request.
 If you found any issue, please raise an issue
