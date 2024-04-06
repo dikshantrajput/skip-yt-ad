@@ -10,11 +10,12 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 - Lightweight and easy to use.
 
 ## Installation
-1. Download the extension package from the [Chrome Web Store](#).
+1. Clone or the extension repository from ([here](https://github.com/dikshantrajput/skip-yt-ad)).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
-4. Drag and drop the downloaded extension package onto the extensions page.
-5. Confirm the installation when prompted.
+4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
+5. Select the directory where you cloned or downloaded the extension repository.
+6. Confirm the installation when prompted.
 
 ## Usage
 1. Once installed, the extension will automatically start working whenever you watch a YouTube video with a skippable ad.
