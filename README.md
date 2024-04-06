@@ -11,7 +11,7 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 - Skips yt survey.
 
 ## Installation
-1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download it](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
+1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
 4. Click on the "Load unpacked" button located at the top-left corner of the extensions page.
