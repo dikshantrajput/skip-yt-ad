@@ -16,6 +16,13 @@ header {
     align-items: center;
 }
 
+header > div,
+footer > div{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
 header h1 {
     margin: 0;
     font-size: 2em;
@@ -66,6 +73,17 @@ footer {
 }
 
 @media (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    header,
+    header > div,
+    footer > div{
+        gap: 20px;
+        flex-direction: column;
+    }
+
     header h1 {
         font-size: 1.5em;
     }
@@ -75,7 +93,12 @@ footer {
     }
 
     section {
-        padding: 20px;
+        padding: 5px;
+        margin-bottom: unset;
+    }
+
+    .github-icon {
+        font-size: 24px;
     }
 }
 
