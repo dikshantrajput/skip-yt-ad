@@ -15,8 +15,8 @@ const execute = (targetNode) => {
             const button = skipAddButtons[0];
             const skipButtonCta = button.parentElement.classList.contains("ytp-ad-skip-button-modern");
             if (skipButtonCta) {
-                chrome.runtime.sendMessage({ action: 'adSkipped' });
                 button.parentElement.click();
+                chrome.runtime.sendMessage({ action: 'adSkipped' });
             }
         }
     };
