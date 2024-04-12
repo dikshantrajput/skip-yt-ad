@@ -1,7 +1,7 @@
-# YouTube Skipper Chrome Extension ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)) (Not an ad blocker)
+# TubeSkip Chrome Extension ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)) (Not an ad blocker)
 
 ## Description
-The YouTube Skipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly.
+The TubeSkip Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly. *It is not an ad blocker in any way* 
 
 ## Features
 - Automatically skips skippable ads on YouTube videos.
@@ -20,7 +20,7 @@ The YouTube Skipper Chrome Extension is a handy tool designed to enhance your Yo
 
 ## How to Run Locally
 
-Follow these steps to run the YouTube Skipper Chrome Extension on your local machine:
+Follow these steps to run the TubeSkip Chrome Extension on your local machine:
 
 1. **Clone the Repository**: 
 ```sh
@@ -50,4 +50,4 @@ If you found any issue, please raise an issue
 ## Disclaimer
 This extension is not endorsed by or affiliated with YouTube. It is an independent project developed solely for the purpose of improving user experience on the platform.
 
-Enjoy ad-free YouTube viewing with the YouTube Skipper Chrome Extension!
+Enjoy ad-free YouTube viewing with the TubeSkip Chrome Extension!
