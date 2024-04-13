@@ -1,7 +1,7 @@
-# TubeSkipper Chrome Extension ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)) (Not an ad blocker)
+# TubeSkipper ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)) (Not an ad blocker)
 
 ## Description
-The TubeSkipper Chrome Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly. *It is not an ad blocker in any way* 
+The TubeSkipper Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly. *It is not an ad blocker* 
 
 ## Features
 - Automatically skips skippable ads on YouTube videos.
@@ -10,7 +10,7 @@ The TubeSkipper Chrome Extension is a handy tool designed to enhance your YouTub
 - Lightweight and easy to use.
 - Skips yt survey.
 
-## Installation
+## Installation (on chromium based browsers)
 1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip).
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable Developer Mode by toggling the switch in the upper-right corner.
@@ -18,9 +18,17 @@ The TubeSkipper Chrome Extension is a handy tool designed to enhance your YouTub
 5. Select the directory where you cloned or downloaded the extension repository.
 6. Confirm the installation when prompted.
 
+## Installation (on firefox)
+1. Clone the [extension repository](https://github.com/dikshantrajput/skip-yt-ad) or [download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add-firefox.zip).
+2. Open Firefox and type `about:debugging` in the address bar, then press Enter.
+3. Click on "This Firefox" in the left sidebar.
+4. Click on the "Load Temporary Add-on" button.
+5. Navigate to the directory where you cloned or downloaded the extension, then select the manifest.json file.
+6. Confirm the installation when prompted.
+
 ## How to Run Locally
 
-Follow these steps to run the TubeSkipper Chrome Extension on your local machine:
+Follow these steps to run the TubeSkipper on your local machine:
 
 1. **Clone the Repository**: 
 ```sh
@@ -41,7 +49,7 @@ Follow these steps to run the TubeSkipper Chrome Extension on your local machine
 2. Sit back and enjoy your uninterrupted YouTube experience as the extension takes care of skipping the ads for you.
 
 ## Compatibility
-This extension is compatible with Google Chrome and Chromium-based browsers.
+This extension is compatible with Google Chrome(Chromium-based browsers) and Firefox.
 
 ## Contributing
 Contributions from the community are welcomes. If you'd like to contribute to the development of this extension, please fork the repository, make your changes, and submit a pull request.
@@ -50,4 +58,4 @@ If you found any issue, please raise an issue
 ## Disclaimer
 This extension is not endorsed by or affiliated with YouTube. It is an independent project developed solely for the purpose of improving user experience on the platform.
 
-Enjoy ad-free YouTube viewing with the TubeSkipper Chrome Extension!
+Enjoy ad-free YouTube viewing with TubeSkipper!
