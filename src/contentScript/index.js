@@ -10,12 +10,11 @@ const execute = (targetNode) => {
 
     // Function to skip the ad
     const skipAd = () => {
-        const skipAddButtons = document.getElementsByClassName("ytp-ad-skip-button-text");
-        if (skipAddButtons.length === 1) {
-            const button = skipAddButtons[0];
-            const skipButtonCta = button.parentElement.classList.contains("ytp-ad-skip-button-modern");
+        const skipAddButtons = document.getElementsByClassName("ytp-skip-ad-button");
+        if (skipAddButtons.length) {
+            const skipButtonCta = skipAddButtons[0];
             if (skipButtonCta) {
-                button.parentElement.click();
+                skipButtonCta.click();
                 chrome.runtime.sendMessage({ action: 'adSkipped' });
             }
         }
