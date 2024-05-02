@@ -1,4 +1,7 @@
-# TubeSkipper ([download](https://github.com/dikshantrajput/skip-yt-ad/blob/main/skip-yt-add.zip)) (Not an ad blocker)
+# TubeSkipper (now [AdBlitz](https://github.com/dikshantrajput/adBlitz))
+
+## Important Notice
+This project has been deprecated and is no longer actively maintained. Please consider using our advanced version with more features, [AdBlitz](https://github.com/dikshantrajput/adBlitz), for an improved experience and continued support.
 
 ## Description
 The TubeSkipper Extension is a handy tool designed to enhance your YouTube viewing experience by automatically skipping skippable ads. Say goodbye to those pesky ads that interrupt your videos, and enjoy uninterrupted content seamlessly. *It is not an ad blocker* 
